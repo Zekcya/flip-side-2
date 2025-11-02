@@ -1,4 +1,4 @@
-name: FlipSide2
-version: '1.0'
-main: dev.zekcya.flipSide2.FlipSide2
+name: FlipSide
+version: '2.0'
+main: dev.zekcya.flipSide.FlipSide
 api-version: '1.21'
